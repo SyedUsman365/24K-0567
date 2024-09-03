@@ -5,5 +5,4 @@ My hobbies are:-
 - Football
 - Badmenton
 
-![Picture of me while i was in jeddah maybe 2 to 3 years ago](C:\Users\syeda\Downloads\Profile Image.jpg)
-  
+![Profile Image](https://github.com/user-attachments/assets/889c3597-9681-43bd-a178-157caefb061d)
